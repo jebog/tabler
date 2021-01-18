@@ -1,5 +1,5 @@
 {
-    "name": "jebog/laravel-tabler-bootstrap4",
+    "name": "jebog/tabler",
     "type": "package",
     "description": "Laravel Package for integrating Tabler template and this package is Laravel Mix friendly.",
     "keywords": [
